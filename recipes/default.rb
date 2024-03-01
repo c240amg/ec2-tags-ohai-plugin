@@ -17,6 +17,7 @@
 # limitations under the License.
 
 chef_gem 'aws-sdk-ec2' do
+  version '1.371.0'
   compile_time true
 end
 
